@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.2063d44b.chunk.css",
+    "main.js": "/memory-card-game/static/js/main.7bb517c1.chunk.js",
+    "main.js.map": "/memory-card-game/static/js/main.7bb517c1.chunk.js.map",
+    "runtime-main.js": "/memory-card-game/static/js/runtime-main.3fd85eaf.js",
+    "runtime-main.js.map": "/memory-card-game/static/js/runtime-main.3fd85eaf.js.map",
+    "static/js/2.6d3dec14.chunk.js": "/memory-card-game/static/js/2.6d3dec14.chunk.js",
+    "static/js/2.6d3dec14.chunk.js.map": "/memory-card-game/static/js/2.6d3dec14.chunk.js.map",
+    "index.html": "/memory-card-game/index.html",
+    "static/css/main.2063d44b.chunk.css.map": "/memory-card-game/static/css/main.2063d44b.chunk.css.map",
+    "static/js/2.6d3dec14.chunk.js.LICENSE.txt": "/memory-card-game/static/js/2.6d3dec14.chunk.js.LICENSE.txt",
+    "static/media/Albus.png": "/memory-card-game/static/media/Albus.d2b7f92a.png",
+    "static/media/Draco.png": "/memory-card-game/static/media/Draco.aa88c096.png",
+    "static/media/Ginny.png": "/memory-card-game/static/media/Ginny.15b6c1e8.png",
+    "static/media/Harry.png": "/memory-card-game/static/media/Harry.d4b302fb.png",
+    "static/media/Hermione.png": "/memory-card-game/static/media/Hermione.8c275fbd.png",
+    "static/media/Minerva.png": "/memory-card-game/static/media/Minerva.3ba1a0ae.png",
+    "static/media/Neville.png": "/memory-card-game/static/media/Neville.9d9f7fcf.png",
+    "static/media/Petunia.png": "/memory-card-game/static/media/Petunia.9dd94cbd.png",
+    "static/media/Quirrell.png": "/memory-card-game/static/media/Quirrell.dfc368b9.png",
+    "static/media/Ron.png": "/memory-card-game/static/media/Ron.d89f1de9.png",
+    "static/media/Rubeus.png": "/memory-card-game/static/media/Rubeus.5d95f8f5.png",
+    "static/media/Severus.png": "/memory-card-game/static/media/Severus.24a72298.png",
+    "static/media/Vernon.png": "/memory-card-game/static/media/Vernon.bc49325c.png",
+    "static/media/Voldemort.png": "/memory-card-game/static/media/Voldemort.7b24fbae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fd85eaf.js",
+    "static/js/2.6d3dec14.chunk.js",
+    "static/css/main.2063d44b.chunk.css",
+    "static/js/main.7bb517c1.chunk.js"
+  ]
+}
