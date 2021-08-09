@@ -11,3 +11,57 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img {
+  height: 200px;
+  width: 170px;
+  border: 5px solid rgb(143, 102, 218);
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background: rgb(48, 48, 99);
+}
+
+#header, #footer{
+  background: url(./hogwarts.jpeg);
+  height: 150px;
+  color: aliceblue;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+h2 {
+  backdrop-filter: blur(2px);
+  border: 2px solid rgb(143, 102, 218);
+  width: 150px;
+  grid-row: 2;
+  grid-column: 2;
+}
+#currentscore {
+  backdrop-filter: blur(3px);
+  border: 2px solid rgb(143, 102, 218);
+  width: 150px;
+  grid-row: 2;
+  grid-column: 9;
+  font-size: larger;
+}
+
+#bestscore {
+  backdrop-filter: blur(3px);
+  border: 2px solid rgb(143, 102, 218);
+  width: 150px;
+  grid-row: 2;
+  grid-column: 10;
+  font-size: larger;
+}
+
+#github {
+  border: 2px solid rgb(143, 102, 218);
+  width: 170px;
+  grid-column: 9;
+  grid-row:2;
+}
